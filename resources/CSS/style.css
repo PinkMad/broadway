@@ -1,0 +1,8 @@
+body {font-family: Helvetica, Verdana, sans-serif; text-align: center;}
+h1 {font-size: 70px; font-weight: bold;}
+ul {font-size: 18px; list-style: none;}
+
+/**color**/
+h1, ul, a {color: white}
+
+.Header_image  {background-image: url("../images/back.png");}
