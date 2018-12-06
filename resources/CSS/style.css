@@ -1,8 +1,14 @@
+.apart {font-size: 23px; font-weight: bold ;color:white;}
 body {font-family: Helvetica, Verdana, sans-serif; text-align: center;}
 h1 {font-size: 70px; font-weight: bold;}
 ul {font-size: 18px; list-style: none;}
+h2 {font-size: 32px; font-weight: bold;}
+.headers {font-size: 23px; font-weight: bold;}
 
 /**color**/
-h1, ul, a {color: white}
+h1, ul, a, h4, .header_main {color: white}
+#error {color: white}
 
+/**Images**/
 .Header_image  {background-image: url("../images/back.png");}
+.footer {background-color: grey; text-align: left;}
